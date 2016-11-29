@@ -1,0 +1,32 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\src\\main\\jni\\Android.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\ank\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\src\\main\\jni\\Android.mk APP_ABI\u003dmips NDK_ALL_ABIS\u003dmips NDEBUG\u003d1 APP_PLATFORM\u003dandroid-9 NDK_OUT\u003dC:/Users/ank/Desktop/GitHub/androidARApp/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "yuv420sp2rgb-debug-mips": {
+      "buildCommand": "C:\\Users\\ank\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\src\\main\\jni\\Android.mk APP_ABI\u003dmips NDK_ALL_ABIS\u003dmips NDEBUG\u003d1 APP_PLATFORM\u003dandroid-9 NDK_OUT\u003dC:/Users/ank/Desktop/GitHub/androidARApp/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/Users/ank/Desktop/GitHub/androidARApp/app/build/intermediates/ndkBuild/debug/obj/local/mips/libyuv420sp2rgb.so",
+      "toolchain": "toolchain-mips",
+      "abi": "mips",
+      "artifactName": "yuv420sp2rgb",
+      "files": [
+        {
+          "src": "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\src\\main\\jni\\yuv420sp2rgb\\yuv420sp2rgb.c",
+          "flags": "\"-fpic\" \"-finline-functions\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fmessage-length\u003d0\" \"-fno-inline-functions-called-once\" \"-fgcse-after-reload\" \"-frerun-cse-after-loop\" \"-frename-registers\" \"-no-canonical-prefixes\" \"-g\" \"-O2\" \"-DNDEBUG\" \"-IC:/Users/ank/Desktop/GitHub/androidARApp/app/src/main/jni\" \"-DANDROID\" \"-DANDROID_NDK\" \"-DDISABLE_IMPORTGL\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-isystem\" \"C:/Users/ank/AppData/Local/Android/sdk/ndk-bundle/build//../platforms/android-9/arch-mips/usr/include\""
+        }
+      ],
+      "output": "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\mips\\libyuv420sp2rgb.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-mips": {
+      "cCompilerExecutable": "C:\\Users\\ank\\AppData\\Local\\Android\\sdk\\ndk-bundle\\build\\..\\toolchains\\mipsel-linux-android-4.9\\prebuilt\\windows-x86_64\\bin\\mipsel-linux-android-gcc"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

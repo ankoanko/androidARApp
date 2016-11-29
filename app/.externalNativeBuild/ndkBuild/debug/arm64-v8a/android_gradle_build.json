@@ -1,0 +1,32 @@
+{
+  "buildFiles": [
+    "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\src\\main\\jni\\Android.mk"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\ank\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\src\\main\\jni\\Android.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dC:/Users/ank/Desktop/GitHub/androidARApp/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "yuv420sp2rgb-debug-arm64-v8a": {
+      "buildCommand": "C:\\Users\\ank\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dC:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\src\\main\\jni\\Android.mk APP_ABI\u003darm64-v8a NDK_ALL_ABIS\u003darm64-v8a NDEBUG\u003d1 APP_PLATFORM\u003dandroid-21 NDK_OUT\u003dC:/Users/ank/Desktop/GitHub/androidARApp/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dC:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\ndkBuild\\debug\\lib C:/Users/ank/Desktop/GitHub/androidARApp/app/build/intermediates/ndkBuild/debug/obj/local/arm64-v8a/libyuv420sp2rgb.so",
+      "toolchain": "toolchain-arm64-v8a",
+      "abi": "arm64-v8a",
+      "artifactName": "yuv420sp2rgb",
+      "files": [
+        {
+          "src": "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\src\\main\\jni\\yuv420sp2rgb\\yuv420sp2rgb.c",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-no-canonical-prefixes\" \"-g\" \"-O2\" \"-DNDEBUG\" \"-IC:/Users/ank/Desktop/GitHub/androidARApp/app/src/main/jni\" \"-DANDROID\" \"-DANDROID_NDK\" \"-DDISABLE_IMPORTGL\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-isystem\" \"C:/Users/ank/AppData/Local/Android/sdk/ndk-bundle/build//../platforms/android-21/arch-arm64/usr/include\""
+        }
+      ],
+      "output": "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\arm64-v8a\\libyuv420sp2rgb.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-arm64-v8a": {
+      "cCompilerExecutable": "C:\\Users\\ank\\AppData\\Local\\Android\\sdk\\ndk-bundle\\build\\..\\toolchains\\aarch64-linux-android-4.9\\prebuilt\\windows-x86_64\\bin\\aarch64-linux-android-gcc"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

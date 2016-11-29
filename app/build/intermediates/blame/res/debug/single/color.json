@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ank\\Desktop\\and\\lib\\proj\\NyARToolkit_Android_v3.0.0-1os2.1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ank\\Desktop\\and\\lib\\proj\\NyARToolkit_Android_v3.0.0-1os2.1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\ank\\Desktop\\and\\lib\\proj\\NyARToolkit_Android_v3.0.0-1os2.1\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ank\\Desktop\\and\\lib\\proj\\NyARToolkit_Android_v3.0.0-1os2.1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ank\\Desktop\\GitHub\\androidARApp\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\color\\common_signin_btn_text_light.xml"
+    }
+]

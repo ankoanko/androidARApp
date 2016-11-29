@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:2:70-107
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:2:108-137
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:2:138-165
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:3:5-14:19
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\ank\Desktop\GitHub\androidARApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:19:5-20
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\ank\Desktop\GitHub\androidARApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\ank\Desktop\GitHub\androidARApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:3:48-80
+	android:icon
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:3:18-47
+activity#jp.androidgroup.nyartoolkit.NyARToolkitAndroidActivity
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:4:9-9:20
+	android:screenOrientation
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:4:62-99
+	android:theme
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:4:100-147
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:4:19-61
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:5:13-8:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:6:17-69
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:6:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:7:17-77
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:7:27-74
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:11:9-13:69
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\ank\Desktop\GitHub\androidARApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:13:13-66
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:12:13-58
+uses-permission#android.permission.INSTALL_PACKAGES
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:15:5-150
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:15:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:15:81-131
+uses-permission#android.permission.DELETE_PACKAGES
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:16:5-149
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:16:72-130
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:16:22-71
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:17:5-150
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:17:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:17:81-131
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:20:5-156
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:20:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:20:81-137
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:21:5-140
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:21:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:21:81-121
+uses-permission#android.permission.ACCESS_SURFACE_FLINGER
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:22:5-156
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:22:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:22:81-137
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:24:5-164
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:24:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:24:81-145
+uses-permission#android.permission.BRICK
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:25:5-139
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:25:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:25:81-120
+uses-permission#android.permission.FLASHLIGHT
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:26:5-144
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:26:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:26:81-125
+uses-permission#android.permission.INTERNAL_SYSTEM_WINDOW
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:27:5-156
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:27:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:27:81-137
+uses-permission#android.permission.MASTER_CLEAR
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:28:5-146
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:28:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:28:81-127
+uses-permission#android.permission.READ_FRAME_BUFFER
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:29:5-151
+	xmlns:android
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:29:22-80
+	android:name
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:29:81-132
+uses-sdk
+ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:32:5-52
+MERGED from [com.google.android.gms:play-services-appindexing:8.1.0] C:\Users\ank\Desktop\GitHub\androidARApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:8.1.0] C:\Users\ank\Desktop\GitHub\androidARApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\ank\Desktop\GitHub\androidARApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml:32:15-40
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ank\Desktop\GitHub\androidARApp\app\src\main\AndroidManifest.xml
